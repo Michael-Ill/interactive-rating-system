@@ -2,7 +2,7 @@
   "name": "interactive-rating",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://michael-ill.github.io/interactive-rating/",
+  "homepage": "https://michael-ill.github.io/interactive-rating-system/",
   "type": "module",
   "scripts": {
     "dev": "vite",
